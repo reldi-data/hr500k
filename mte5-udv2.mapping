@@ -256,7 +256,7 @@ I	INTJ	_	_
 Mdc	NUM	Form=digit|Type=cardinal	NumType=Card
 Mdm	NUM	Form=digit|Type=multiple	NumType=Mult
 Mdo	ADJ	Form=digit|Type=ordinal	NumType=Ord
-Mds	NUM	Form=digit|Type=special	_
+Mds	NUM	Form=digit|Type=special	NumType=Mult
 Mlc	NUM	Form=letter|Type=cardinal	NumType=Card
 Mlc--a	NUM	Form=letter|Type=cardinal|Case=accusative	Case=Acc|NumType=Card
 Mlc--d	NUM	Form=letter|Type=cardinal|Case=dative	Case=Dat|NumType=Card
