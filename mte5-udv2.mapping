@@ -19,8 +19,6 @@ Agcmpiy	ADJ	Type=general|Degree=comparative|Gender=masculine|Number=plural|Case=
 Agcmply	ADJ	Type=general|Degree=comparative|Gender=masculine|Number=plural|Case=locative|Definiteness=yes	Case=Loc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur
 Agcmpny	ADJ	Type=general|Degree=comparative|Gender=masculine|Number=plural|Case=nominative|Definiteness=yes	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur
 Agcmpvy	ADJ	Type=general|Degree=comparative|Gender=masculine|Number=plural|Case=vocative|Definiteness=yes	Case=Voc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur
-Agcmsany	ADJ	Type=general|Degree=comparative|Gender=masculine|Number=singular|Case=accusative|Definiteness=no|Animate=yes	Animacy=Anim|Case=Acc|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing
-Agcmsay	ADJ	Type=general|Degree=comparative|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes	Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing
 Agcmsayn	ADJ	Type=general|Degree=comparative|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=no	Animacy=Inan|Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing
 Agcmsayy	ADJ	Type=general|Degree=comparative|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=yes	Animacy=Anim|Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing
 Agcmsdy	ADJ	Type=general|Degree=comparative|Gender=masculine|Number=singular|Case=dative|Definiteness=yes	Case=Dat|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing
@@ -65,10 +63,8 @@ Agpmpiy	ADJ	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=ins
 Agpmply	ADJ	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=locative|Definiteness=yes	Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur
 Agpmpny	ADJ	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=nominative|Definiteness=yes	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur
 Agpmpvy	ADJ	Type=general|Degree=positive|Gender=masculine|Number=plural|Case=vocative|Definiteness=yes	Case=Voc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur
-Agpmsan	ADJ	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=no	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
 Agpmsann	ADJ	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=no|Animate=no	Animacy=Inan|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
 Agpmsany	ADJ	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=no|Animate=yes	Animacy=Anim|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
-Agpmsay	ADJ	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes	Degree=Pos|Gender=Masc|Number=Sing|Case=Acc|Definite=Def
 Agpmsayn	ADJ	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=no	Animacy=Inan|Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing
 Agpmsayy	ADJ	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=yes	Animacy=Anim|Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing
 Agpmsdn	ADJ	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=dative|Definiteness=no	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
@@ -82,7 +78,6 @@ Agpmsnn	ADJ	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=n
 Agpmsny	ADJ	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=nominative|Definiteness=yes	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing
 Agpmsvn	ADJ	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=vocative|Definiteness=no	Case=Voc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
 Agpmsvy	ADJ	Type=general|Degree=positive|Gender=masculine|Number=singular|Case=vocative|Definiteness=yes	Case=Voc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing
-Agpnpan	ADJ	Type=general|Degree=positive|Gender=neuter|Number=plural|Case=accusative|Definiteness=no	Case=Acc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Plur
 Agpnpay	ADJ	Type=general|Degree=positive|Gender=neuter|Number=plural|Case=accusative|Definiteness=yes	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur
 Agpnpdy	ADJ	Type=general|Degree=positive|Gender=neuter|Number=plural|Case=dative|Definiteness=yes	Case=Dat|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur
 Agpnpgy	ADJ	Type=general|Degree=positive|Gender=neuter|Number=plural|Case=genitive|Definiteness=yes	Case=Gen|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur
@@ -121,12 +116,9 @@ Agsmpiy	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=plural|Case=
 Agsmply	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=plural|Case=locative|Definiteness=yes	Case=Loc|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur
 Agsmpny	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=plural|Case=nominative|Definiteness=yes	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur
 Agsmpvy	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=plural|Case=vocative|Definiteness=yes	Case=Voc|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur
-Agsmsany	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=singular|Case=accusative|Definiteness=no|Animate=yes	Animacy=Anim|Case=Acc|Definite=Ind|Degree=Sup|Gender=Masc|Number=Sing
-Agsmsay	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes	Case=Acc|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
 Agsmsayn	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=no	Animacy=Inan|Case=Acc|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
 Agsmsayy	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=yes	Animacy=Anim|Case=Acc|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
 Agsmsdy	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=singular|Case=dative|Definiteness=yes	Case=Dat|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
-Agsmsgn	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=singular|Case=genitive|Definiteness=no	Case=Gen|Definite=Ind|Degree=Sup|Gender=Masc|Number=Sing
 Agsmsgy	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=singular|Case=genitive|Definiteness=yes	Case=Gen|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
 Agsmsiy	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=singular|Case=instrumental|Definiteness=yes	Case=Ins|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
 Agsmsly	ADJ	Type=general|Degree=superlative|Gender=masculine|Number=singular|Case=locative|Definiteness=yes	Case=Loc|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
@@ -222,7 +214,6 @@ Aspmpny	ADJ	Type=possessive|Degree=positive|Gender=masculine|Number=plural|Case=
 Aspmpvy	ADJ	Type=possessive|Degree=positive|Gender=masculine|Number=plural|Case=vocative|Definiteness=yes	Case=Voc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes
 Aspmsann	ADJ	Type=possessive|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=no|Animate=no	Animacy=Inan|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
 Aspmsany	ADJ	Type=possessive|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=no|Animate=yes	Animacy=Anim|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
-Aspmsayn	ADJ	Type=possessive|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=no	Animacy=Inan|Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
 Aspmsayy	ADJ	Type=possessive|Degree=positive|Gender=masculine|Number=singular|Case=accusative|Definiteness=yes|Animate=yes	Animacy=Anim|Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
 Aspmsdn	ADJ	Type=possessive|Degree=positive|Gender=masculine|Number=singular|Case=dative|Definiteness=no	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
 Aspmsdy	ADJ	Type=possessive|Degree=positive|Gender=masculine|Number=singular|Case=dative|Definiteness=yes	Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
@@ -383,7 +374,6 @@ Mlsm-a	NUM	Form=letter|Type=special|Gender=masculine|Case=accusative	Case=Acc|Ge
 Mlsm-g	NUM	Form=letter|Type=special|Gender=masculine|Case=genitive	Case=Gen|Gender=Masc|NumType=Mult
 Mlsm-l	NUM	Form=letter|Type=special|Gender=masculine|Case=locative	Case=Loc|Gender=Masc|NumType=Mult
 Mlsm-n	NUM	Form=letter|Type=special|Gender=masculine|Case=nominative	Case=Nom|Gender=Masc|NumType=Mult
-Mlsmpn	NUM	Form=letter|Type=special|Gender=masculine|Number=plural|Case=nominative	Case=Nom|Gender=Masc|Number=Plur|NumType=Mult
 Mlsn-a	NUM	Form=letter|Type=special|Gender=neuter|Case=accusative	Case=Acc|Gender=Neut|NumType=Mult
 Mlsn-d	NUM	Form=letter|Type=special|Gender=neuter|Case=dative	Case=Dat|Gender=Neut|NumType=Mult
 Mlsn-g	NUM	Form=letter|Type=special|Gender=neuter|Case=genitive	Case=Gen|Gender=Neut|NumType=Mult
