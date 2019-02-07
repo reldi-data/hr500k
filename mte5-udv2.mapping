@@ -51,7 +51,6 @@ Agpfpvy	ADJ	Type=general|Degree=positive|Gender=feminine|Number=plural|Case=voca
 Agpfsay	ADJ	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=accusative|Definiteness=yes	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 Agpfsdy	ADJ	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=dative|Definiteness=yes	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 Agpfsgy	ADJ	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=genitive|Definiteness=yes	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
-Agpfsin	ADJ	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=instrumental|Definiteness=no	Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing
 Agpfsiy	ADJ	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=instrumental|Definiteness=yes	Case=Ins|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 Agpfsly	ADJ	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=locative|Definiteness=yes	Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
 Agpfsny	ADJ	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=nominative|Definiteness=yes	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
