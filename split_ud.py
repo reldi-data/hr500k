@@ -103,7 +103,7 @@ for idx in range(85):
   del hr_docs['news.hr.'+idx]
 
 #split croatian web sentences
-for idx in range(2333):
+for idx in range(2331):
   idx=str(idx+1)
   r=random()
   if r<=0.8:
