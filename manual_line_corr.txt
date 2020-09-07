@@ -19,3 +19,4 @@ line	web.hr-s1687	23	smije	smjeti	V	Vmr3s	Type=main|VForm=present|Person=third|N
 line	web.hr-s2153	4	si	biti	V	Var2s	Type=auxiliary|VForm=present|Person=second|Number=singular	0:Pred	6:cop	UposTag=AUX|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	_	O	_	_	_	_	_	_	_	_	_	_	_	_
 line	web.hr-s2219	22	susrećete	susretati	V	Vmr2p	Type=main|VForm=present|Person=second|Number=plural	20:Pred	18:acl	UposTag=VERB|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	O	_	_	_	_	_	_	_	_	_	_	_	_
 line	web.hr-s1115	11	budemo	biti	V	Vmr1p	Type=main|VForm=present|Person=first|Number=plural	10:Pred	13:cop	UposTag=AUX|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	O	_	_	_	_	_	_	_	_	_	_	_	_
+line	set.hr-s3429	12	Branka	Branko	N	Npmsay	Type=proper|Gender=masculine|Number=singular|Case=accusative|Animate=yes	13:Ap	6:appos	UposTag=PROPN|Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	B-per	_	_	_	_	_	_	_	_	_	_	_	_
