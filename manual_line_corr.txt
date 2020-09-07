@@ -1,4 +1,4 @@
-line	web.hr-s1115	11	budemo	budeti	V	Vmr1p	Type=main|VForm=present|Person=first|Number=plural	10:Pred	13:cop	UposTag=AUX|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	O	_	_	_	_	_	_	_	_	_	_	_	_
+line	web.hr-s1115	11	budemo	biti	V	Var1p	Type=auxiliary|VForm=present|Person=first|Number=plural	10:Pred	13:cop	UposTag=AUX|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	O	_	_	_	_	_	_	_	_	_	_	_	_
 line	web.hr-s1990	13	ja	biti	P	Pp1-sn	Type=personal|Person=first|Number=singular|Case=nominative	14:Aux	14:aux	UposTag=AUX|Case=Nom|Number=Sing|Person=1|PronType=Prs	_	O	_	_	_	_	_	_	_	_	_	_	_	_
 line	set.hr-s468	18	žele	željeti	V	Vmr3p	Type=main|VForm=present|Person=third|Number=plural	16:Pred	7:conj	UposTag=VERB|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	O	željeti	_	_	_	_	_	_	_	_	_	_	_
 line	news.hr-s2398	28	banaka	banka	N	Ncfpg	Type=common|Gender=feminine|Number=plural|Case=genitive	27:Atr	27:nmod	UposTag=NOUN|Case=Gen|Gender=Fem|Number=Plur	_	O	_	_	_	_	_	_	_	_	_	_	_	_
