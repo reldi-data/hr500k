@@ -923,11 +923,11 @@ Vmr2p	VERB	Type=main|VForm=present|Person=second|Number=plural	Mood=Ind|Number=P
 Vmr2s	VERB	Type=main|VForm=present|Person=second|Number=singular	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
 Vmr3p	VERB	Type=main|VForm=present|Person=third|Number=plural	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
 Vmr3s	VERB	Type=main|VForm=present|Person=third|Number=singular	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
-X	_	_	_
-Xf	_	Type=foreign	_
-Xa	_	Type=at	_
-Xe	_	Type=emo	_
-Xh	_	Type=hashtag	_
-Xw	_	Type=web	_
+X	X	_	_
+Xf	X	Type=foreign	Foreign=Yes
+Xa	SYM	Type=at	_
+Xe	SYM	Type=emo	_
+Xh	SYM	Type=hashtag	_
+Xw	SYM	Type=web	_
 Y	_	_	_
 Z	PUNCT	_	_

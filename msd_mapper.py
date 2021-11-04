@@ -2,11 +2,11 @@ import re
 
 
 class MSDMapper:
-    def __init__(self):
+    def __init__(self,link):
         self.msd_upos = {}
         self.msd_mtefeat = {}
         self.msd_udfeat = {}
-        with open('mte5-udv2.mapping', 'r', encoding='utf-8') as mapfile:
+        with open(link, 'r', encoding='utf-8') as mapfile:
             for line in mapfile:
                 parts = line.strip().split('\t')
                 self.msd_upos[parts[0]] = parts[1]
