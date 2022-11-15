@@ -1,15 +1,15 @@
 COLUMNS = ['ID', 'FORM', 'LEMMA', 'UPOS', 'XPOS', 'FEATS', 'HEAD', 'DEPREL', 'DEPS', 'MISC',
            'RELDI:NE', 'RELDI:DP', 'RELDI:SRL', 'RELDI:MISC']
 
-with open('hr500k.conllup', 'w') as f:
-    f.write('# global.columns = {}\n'.format(' '.join(COLUMNS)))
+with open('hr500k.conllup', 'w') as fajl:
+    fajl.write('# global.columns = {}\n'.format(' '.join(COLUMNS)))
 
     for line in open('hr500k.conllu'):
         if line.startswith('#'):
-            f.write(line)
+            fajl.write(line)
 
         elif line.strip() == '':
-            f.write('\n')
+            fajl.write('\n')
 
         else:
             tid, form, lemma, upos, xpos, feats, head, deprel, deps, misc = line.strip().split('\t')
@@ -38,5 +38,5 @@ with open('hr500k.conllup', 'w') as f:
 
             rmisc = '|'.join(['='.join(f) for f in rmisc.items()]) or '_'
 
-            f.write('\t'.join((tid, form, lemma, upos, xpos, feats, head, deprel, deps, misc, ner, dp, srl, rmisc)))
-            f.write('\n')
+            fajl.write('\t'.join((tid, form, lemma, upos, xpos, feats, head, deprel, deps, misc, ner, dp, srl, rmisc)))
+            fajl.write('\n')
