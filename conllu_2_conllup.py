@@ -34,7 +34,7 @@ with open('hr500k.conllup', 'w') as fajl:
                 if 'ToDo' in misc:
                     rmisc['ToDo'] = misc.pop('ToDo')
 
-                misc = '|'.join(['='.join(f) for f in misc.items()])
+                misc = '|'.join(['='.join(f) for f in misc.items()]) or '_'
 
             rmisc = '|'.join(['='.join(f) for f in rmisc.items()]) or '_'
 
