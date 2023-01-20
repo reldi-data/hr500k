@@ -60,3 +60,24 @@ Format errors: 315979
 Syntax errors: 900678
 *** FAILED *** with 1216657 errors
 ```
+
+# Results of testing the UPOS-XPOS correspondence using reldi-data validator (aggregated results)
+
+```
+      1 UPOS Pi3n-n UposTag=SCONJ|_
+     93 UPOS Rgc UposTag=DET|Degree=Cmp
+    100 UPOS Rgp UposTag=DET|Degree=Pos
+      7 UPOS Rgp UposTag=DET|Degree=Pos|PronType=Dem
+    149 UPOS Rgp UposTag=DET|Degree=Pos|PronType=Ind
+      7 UPOS Rgp UposTag=DET|Degree=Pos|PronType=Int,Rel
+      6 UPOS Rgs UposTag=DET|Degree=Sup
+    178 UPOS Y UposTag=ADJ|_
+     93 UPOS Y UposTag=ADV|_
+      5 UPOS Y UposTag=ADV|Degree=Pos
+      4 UPOS Y UposTag=INTJ|_
+    821 UPOS Y UposTag=NOUN|_
+    154 UPOS Y UposTag=PART|_
+    191 UPOS Y UposTag=PROPN|_
+      3 UPOS Y UposTag=VERB|_
+    214 UPOS Y UposTag=X|_
+```
