@@ -64,7 +64,6 @@ Syntax errors: 900678
 # Results of testing the UPOS-XPOS correspondence using reldi-data validator (aggregated results)
 
 ```
-      1 UPOS Pi3n-n UposTag=SCONJ|_
      93 UPOS Rgc UposTag=DET|Degree=Cmp
     100 UPOS Rgp UposTag=DET|Degree=Pos
       7 UPOS Rgp UposTag=DET|Degree=Pos|PronType=Dem
